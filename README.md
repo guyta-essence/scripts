@@ -1,3 +1,3 @@
 # scripts
-this script can be used as a prtg advanced exe sensore for azure sql as a service.
+this script can be used as a prtg advanced exe sensor for azure sql as a service.  
 intended for elastic pools.
